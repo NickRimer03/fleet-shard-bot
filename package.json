@@ -1,0 +1,18 @@
+{
+  "name": "fleet-shard-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.mjs",
+  "scripts": {
+    "start": "node --experimental-modules app.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
