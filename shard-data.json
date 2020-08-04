@@ -1,5 +1,11 @@
 [
   {
+    "Name": "Jhon Racar",
+    "Flag": ":pirate_flag:",
+    "SWGOH": "<https://swgoh.gg/>",
+    "UTC": "00:00"
+  },
+  {
     "Name": "Yrvine",
     "Flag": ":flag_pe:",
     "SWGOH": "<https://swgoh.gg/p/389678653/>",
@@ -33,6 +39,12 @@
     "Name": "keno",
     "Flag": ":flag_us:",
     "SWGOH": "<https://swgoh.gg/p/858465892/>",
+    "UTC": "05:00"
+  },
+  {
+    "Name": "Void",
+    "Flag": ":flag_us:",
+    "SWGOH": "<https://swgoh.gg/p/117229257>",
     "UTC": "05:00"
   },
   {
@@ -159,6 +171,12 @@
     "Name": "SHAZAM",
     "Flag": ":flag_us:",
     "SWGOH": "<https://swgoh.gg/p/438192585/>",
+    "UTC": "21:00"
+  },
+  {
+    "Name": "Nemo20000",
+    "Flag": ":pirate_flag:",
+    "SWGOH": "<https://swgoh.gg/>",
     "UTC": "21:00"
   },
   {
