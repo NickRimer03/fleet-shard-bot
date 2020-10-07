@@ -181,8 +181,8 @@
   },
   {
     "Name": "Nemo20000",
-    "Flag": ":pirate_flag:",
-    "SWGOH": "<https://swgoh.gg/>",
+    "Flag": ":flag_us:",
+    "SWGOH": "<https://swgoh.gg/823389186>",
     "UTC": "21:00"
   },
   {
@@ -219,6 +219,12 @@
     "Name": "Helix15",
     "Flag": ":flag_us:",
     "SWGOH": "<https://swgoh.gg/p/765233732/>",
+    "UTC": "23:00"
+  },
+  {
+    "Name": "Nojow",
+    "Flag": ":flag_us:",
+    "SWGOH": "<https://swgoh.gg/p/629484643/>",
     "UTC": "23:00"
   }
 ]
