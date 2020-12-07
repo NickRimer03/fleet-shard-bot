@@ -36,16 +36,16 @@
     "UTC": "03:00"
   },
   {
-    "Name": "keno",
-    "Flag": ":flag_us:",
-    "SWGOH": "<https://swgoh.gg/p/858465892/>",
-    "UTC": "05:00"
-  },
-  {
     "Name": "Void",
     "Flag": ":flag_us:",
     "SWGOH": "<https://swgoh.gg/p/117229257>",
     "UTC": "05:00"
+  },
+  {
+    "Name": "keno",
+    "Flag": ":flag_us:",
+    "SWGOH": "<https://swgoh.gg/p/858465892/>",
+    "UTC": "06:00"
   },
   {
     "Name": "SupremeChancellorKoullis",
