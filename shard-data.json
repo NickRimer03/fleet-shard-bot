@@ -156,6 +156,12 @@
     "UTC": "18:00"
   },
   {
+    "Name": "SHAZAM",
+    "Flag": ":flag_us:",
+    "SWGOH": "<https://swgoh.gg/p/438192585/>",
+    "UTC": "19:00"
+  },
+  {
     "Name": "FlashPoint",
     "Flag": ":pirate_flag:",
     "SWGOH": "<https://swgoh.gg/>",
@@ -172,12 +178,6 @@
     "Flag": ":flag_us:",
     "SWGOH": "<https://swgoh.gg/p/916745645/>",
     "UTC": "20:00"
-  },
-  {
-    "Name": "SHAZAM",
-    "Flag": ":flag_us:",
-    "SWGOH": "<https://swgoh.gg/p/438192585/>",
-    "UTC": "21:00"
   },
   {
     "Name": "Nemo20000",
