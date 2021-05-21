@@ -4,15 +4,16 @@
   "description": "",
   "main": "bot.mjs",
   "scripts": {
-    "start": "node --experimental-modules app.mjs"
+    "start": "node app.mjs"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "module",
   "devDependencies": {
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.6.0"
   },
   "dependencies": {
-    "discord.js": "^11.3.2"
+    "discord.js": "^11.6.4"
   }
 }
