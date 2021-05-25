@@ -138,12 +138,6 @@
     "UTC": "17:00"
   },
   {
-    "Name": "TreboR",
-    "Flag": ":flag_pl:",
-    "SWGOH": "<https://swgoh.gg/859918752>",
-    "UTC": "17:00"
-  },
-  {
     "Name": "Darda",
     "Flag": ":triangular_flag_on_post:",
     "SWGOH": "<https://swgoh.gg/>",
@@ -195,6 +189,12 @@
     "Name": "Prophet",
     "Flag": ":flag_ca:",
     "SWGOH": "<https://swgoh.gg/p/581753576/>",
+    "UTC": "22:00"
+  },
+  {
+    "Name": "TreboR",
+    "Flag": ":flag_pl:",
+    "SWGOH": "<https://swgoh.gg/859918752>",
     "UTC": "22:00"
   },
   {
