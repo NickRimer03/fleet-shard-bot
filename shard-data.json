@@ -84,12 +84,6 @@
     "UTC": "12:00"
   },
   {
-    "Name": "Golota",
-    "Flag": ":flag_ua:",
-    "SWGOH": "<https://swgoh.gg/p/432948786/>",
-    "UTC": "15:00"
-  },
-  {
     "Name": "ARΞS",
     "Flag": ":flag_ru:",
     "SWGOH": "<https://swgoh.gg/p/733296396/>",
@@ -171,6 +165,12 @@
     "Name": "iAmRyC",
     "Flag": ":flag_us:",
     "SWGOH": "<https://swgoh.gg/p/987975779/>",
+    "UTC": "20:00"
+  },
+  {
+    "Name": "Golota",
+    "Flag": ":flag_ua:",
+    "SWGOH": "<https://swgoh.gg/p/432948786/>",
     "UTC": "20:00"
   },
   {
