@@ -54,12 +54,6 @@
     "UTC": "06:00"
   },
   {
-    "Name": "SupremeChancellorKoullis",
-    "Flag": ":flag_cy:",
-    "SWGOH": "<https://swgoh.gg/p/373238447/>",
-    "UTC": "07:00"
-  },
-  {
     "Name": "NightAngel",
     "Flag": ":flag_kr:",
     "SWGOH": "<https://swgoh.gg/p/415442422/>",
@@ -154,6 +148,12 @@
     "Flag": ":flag_us:",
     "SWGOH": "<https://swgoh.gg/p/438192585/>",
     "UTC": "19:00"
+  },
+  {
+    "Name": "SupremeChancellorKoullis",
+    "Flag": ":flag_cy:",
+    "SWGOH": "<https://swgoh.gg/p/373238447/>",
+    "UTC": "07:00"
   },
   {
     "Name": "FlashPoint",
