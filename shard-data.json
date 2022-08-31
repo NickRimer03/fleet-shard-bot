@@ -60,12 +60,6 @@
     "UTC": "10:00"
   },
   {
-    "Name": "iM Svyat",
-    "Flag": ":flag_ru:",
-    "SWGOH": "<https://swgoh.gg/p/554944743/>",
-    "UTC": "12:00"
-  },
-  {
     "Name": "Arni FX13",
     "Flag": ":flag_kz:",
     "SWGOH": "<https://swgoh.gg/>",
@@ -82,6 +76,12 @@
     "Flag": ":triangular_flag_on_post:",
     "SWGOH": "<https://swgoh.gg/p/585759248/>",
     "UTC": "13:00"
+  },
+  {
+    "Name": "iM Svyat",
+    "Flag": ":flag_ru:",
+    "SWGOH": "<https://swgoh.gg/p/554944743/>",
+    "UTC": "14:30"
   },
   {
     "Name": "ARΞS",
